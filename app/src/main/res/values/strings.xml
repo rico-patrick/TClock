@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TClock</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">TClock</string>
+    <string name="nav_header_subtitle">http://ricopatrick.tk</string>
+    <string name="nav_header_desc">TClock</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="count_down_timer">Count Down Timer</string>
+    <string name="alarm">Alarm</string>
+</resources>
